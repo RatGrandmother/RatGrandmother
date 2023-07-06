@@ -1,5 +1,6 @@
-# About Me:
-Aspiring cyber-security expert. ( I suck )
+# About Me
+
+I'm an aspiring Malware Analyst and Malware Developer ( for analysis.) ( I suck )
 
 
 # 💻 Tech Stack:
