@@ -1,6 +1,7 @@
 # About Me
 
-I'm an aspiring Malware Analyst and Malware Developer ( for analysis.) ( I suck )
+c-- should be the new c++ 
+
 
 
 # 💻 Tech Stack:
