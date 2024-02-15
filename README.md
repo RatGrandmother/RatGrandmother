@@ -1,7 +1,6 @@
 # About Me
 
-c-- should be the new c++ 
-
+I do most of my projects as a hobby, but I am always open to collaboration.
 
 
 # 💻 Tech Stack:
