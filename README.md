@@ -1,5 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatGrandmother)](https://github.com/anuraghazra/github-readme-stats)
-
+![RatGrandmother's GitHub stats](https://github-readme-stats.vercel.app/api?username=RatGrandmotherra&show_icons=true&theme=transparent)
 
 # Hi, I am a small developer that does mostly passion projects..
 ## I am always willing to collaborate and contribute to your projects, but I am working on several of my own.
