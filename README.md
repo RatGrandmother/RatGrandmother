@@ -1,5 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratgrandmother)](https://github.com/anuraghazra/github-readme-stats)
-Language stats algorithm
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatGrandmother)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Hi, I am a small developer that does mostly passion projects..
