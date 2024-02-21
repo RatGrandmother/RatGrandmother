@@ -1,6 +1,10 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratgrandmother)](https://github.com/anuraghazra/github-readme-stats)
+Language stats algorithm
+
 
 # Hi, I am a small developer that does mostly passion projects..
-I am always willing to collaborate and contribute to your projects, but I am working on several of my own.
+## I am always willing to collaborate and contribute to your projects, but I am working on several of my own.
+
 
 ##
 
