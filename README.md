@@ -1,12 +1,6 @@
 ![RatGrandmother's GitHub stats](https://github-readme-stats.vercel.app/api?username=RatGrandmother&show_icons=true&theme=transparent)
 
-# Hi, I am a small developer that does mostly passion projects..
-## I am always willing to collaborate and contribute to your projects, but I am working on several of my own.
-
-
-##
-
-Currently learning embeded programming!
+always working
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
